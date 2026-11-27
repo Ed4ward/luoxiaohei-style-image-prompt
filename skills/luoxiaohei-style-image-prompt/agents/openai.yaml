@@ -1,0 +1,4 @@
+interface:
+  display_name: "罗小黑风格图片提示词"
+  short_description: "写罗小黑式手绘二维动画提示词，为场景设计自然的藏字彩蛋"
+  default_prompt: "用 $luoxiaohei-style-image-prompt 给雨后的北京故宫写一份二维动画图片提示词，在画面里藏一处文字彩蛋。"
